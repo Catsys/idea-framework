@@ -1,0 +1,15 @@
+{
+  "name": "101xp/lots_converter",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "require": {
+    "vlucas/phpdotenv": "^5.4",
+    "mongodb/mongodb": "^1.12"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
