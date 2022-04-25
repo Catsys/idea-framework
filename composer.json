@@ -1,8 +1,8 @@
 {
-  "name": "101xp/lots_converter",
-  "description": "description",
+  "name": "catsys/test-work",
+  "description": "My attempt at making a microframework",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "GPL",
   "require": {
     "vlucas/phpdotenv": "^5.4",
     "mongodb/mongodb": "^1.12"

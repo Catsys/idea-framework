@@ -1,11 +1,11 @@
 <?php
 
 $routes = [
-    'PUT:/' => [
+    'PUT:/stats' => [
         'controller' => '\App\Controllers\StatsController',
         'method' => 'create'
     ],
-    'GET:/' => [
+    'GET:/stats' => [
         'controller' => '\App\Controllers\StatsController',
         'method' => 'getStat'
     ],
